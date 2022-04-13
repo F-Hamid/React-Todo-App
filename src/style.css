@@ -1,0 +1,60 @@
+body {
+  box-sizing: border-box;
+  background-color: #f7f7f7;
+}
+
+.center {
+  background-color: #f7f7f7;
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem auto;
+  border-radius: 0.5rem;
+  box-shadow: 0.1rem 0.1rem 0.5rem #313552;
+}
+
+.header {
+  margin: 3rem auto 2rem auto;
+}
+.mb-3 {
+  width: 90%;
+}
+
+.input-group-text {
+  background-color: #ff6464;
+  color: #f7f7f7;
+}
+.button {
+  font-weight: 700;
+  box-shadow: 0.1rem 0.1rem 0.5rem #313552;
+  margin-bottom: 1.5rem !important;
+}
+
+.list {
+  background-color: #eeeeee;
+  width: 70%;
+}
+
+.item {
+  background-color: #65c18c;
+}
+
+.item-icon {
+  background-color: #65c18c;
+}
+
+.fa-trash-can {
+  color: #b33030;
+  margin-left: 1rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+.hide {
+  visibility: hidden;
+  display: none;
+}
