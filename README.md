@@ -14,4 +14,4 @@ Using :
 
 ## _Deployment:_
 
-[https://todospa.netlify.app](https://todospa.netlify.app)
+[https://spatodo.netlify.app](https://spatodo.netlify.app)
